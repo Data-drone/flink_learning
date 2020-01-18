@@ -1,3 +1,8 @@
-# Flink Learning Project
+# Flink Learning Repo
 
-a project to learn more about flink
+A set of mini projects to learn more about Flink
+
+# Subprojects
+
+# Execution Environment
+
